@@ -5,5 +5,5 @@ typedef enum {
 } GiornoSettimana;
 
 int main() {
-
+    
 }
