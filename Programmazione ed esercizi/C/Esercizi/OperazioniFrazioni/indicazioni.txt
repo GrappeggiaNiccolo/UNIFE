@@ -1,0 +1,3 @@
+scrivere un programma che svolge le varie operazioni aritmetiche sulle frazioni
+(somma, differenza, moltiplicazione, divisione, inversione (x^-1), ecc...)
+Suddividere il programma nei vari file e usare Makefile
