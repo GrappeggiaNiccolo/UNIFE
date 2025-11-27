@@ -2,6 +2,7 @@
     "files.associations": {
         "frazioni.h": "c",
         "stdio.h": "c",
-        "contatore.h": "c"
+        "contatore.h": "c",
+        "stdlib.h": "c"
     }
 }
