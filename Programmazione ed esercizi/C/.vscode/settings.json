@@ -3,6 +3,7 @@
         "frazioni.h": "c",
         "stdio.h": "c",
         "contatore.h": "c",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "string.h": "c"
     }
 }
